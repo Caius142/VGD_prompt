@@ -1,0 +1,10 @@
+Console.WriteLine(123);         // integer literal
+Console.WriteLine(3.14);        // floating-point literal
+int age = 25;
+string name = "Alice";
+var count = 10;         // int
+var initial = 'Z';      // char
+var message = "Hi!";    // string
+string user = "Bob";
+int score = 42;
+Console.WriteLine($"Player: {user}, Score: {score}");
