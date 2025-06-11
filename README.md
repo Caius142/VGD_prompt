@@ -1,1 +1,1 @@
-# VGD_prompt
+My 2D game is called Star jump, its a platformer game where you have to jump onto various platforms to collect the star while also avoiding the monster that is there to guard the star from people. To play its simple using the A and D keys to move across and the space button to jump, my favourite part of the game is the art of it which honestly wasnt great but it was better then most of my pixel art. During the coding i ran into many bugs and error writting the death scrip, i was able to fix it because i forgot to add the SceneManager to the 17th line
